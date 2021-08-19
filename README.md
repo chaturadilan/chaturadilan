@@ -2,6 +2,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaturadilan&count_private=true&theme=gruvbox&show_icons=true&langs_count=20&exclude_repo=github-readme-stats,chaturadilan.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chaturadilan)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **chaturadilan/chaturadilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
