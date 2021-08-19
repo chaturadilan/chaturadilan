@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Chatura Dilan's's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaturadilan)](https://github.com/chaturadilan/github-readme-stats)
+
 
 <!--
 **chaturadilan/chaturadilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
