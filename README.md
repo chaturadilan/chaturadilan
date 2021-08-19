@@ -1,6 +1,6 @@
 [![Chatura Dilan's's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaturadilan&count_private=true&theme=gruvbox&show_icons=true)](https://github.com/chaturadilan/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaturadilan&count_private=true&theme=gruvbox&show_icons=true&langs_count=12&exclude_repo=github-readme-stats,chaturadilan.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaturadilan&count_private=true&theme=gruvbox&show_icons=true&langs_count=20&exclude_repo=github-readme-stats,chaturadilan.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
